@@ -1,0 +1,4 @@
+Bundle-Name: osgi
+Bundle-SymbolicName: osgi
+Bundle-Version: 1.0.0
+Export-Package: osgi.constants
